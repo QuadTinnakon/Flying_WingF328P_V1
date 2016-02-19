@@ -4,6 +4,10 @@ project_Flying_WingF3_V1
 
 ![](https://cloud.githubusercontent.com/assets/9403558/13171369/09a21c72-d725-11e5-8322-a99843717f45.jpg)
 
+![](https://cloud.githubusercontent.com/assets/9403558/13171419/6b94bebc-d725-11e5-8e6a-d9a8551bfa56.jpg)
+
+![](https://cloud.githubusercontent.com/assets/9403558/13171441/83a7a2da-d725-11e5-9f2c-f8fcc8ebc3a7.jpg)
+
 by: tinnakon kheowree  
 
 tinnakon_za@hotmail.com
