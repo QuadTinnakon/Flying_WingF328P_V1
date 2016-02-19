@@ -21,8 +21,11 @@ support:  Board MWC-S V1.5
 
 Flying_Wing
                   T
+                  
                   I
+                  
          D10----  I  ---- D9
+         
               \   I   / 
 
 ---------motor---------
