@@ -48,8 +48,8 @@ int SET_PITCH1 = 1500;
 #define TASK_noHZ 220
 #define RAD_TO_DEG 57.295779513082320876798154814105
 
-float sensorValue1 = 0.45;
-float sensorValue2 = 1.0;
+float sensorValue1 = 1.0;
+float sensorValue2 = 0.45;
 // Main loop variables
 unsigned long currentTime = 0;
 unsigned long previousTime = 0;
