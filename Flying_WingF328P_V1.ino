@@ -22,7 +22,7 @@ Flying_Wing
 FontRight => D9
 FontLeft => D10          
 ----------rx-----------           
-Throttle  => D2
+Mode  => D2
 Aileron   => D4
 Elevator  => D5
 */
