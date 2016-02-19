@@ -37,7 +37,8 @@ Flying_Wing
          
               \   I   / 
 
----------motor---------
+---------Servo---------
+
 FontRight => D9
 
 FontLeft => D10    
