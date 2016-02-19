@@ -45,7 +45,7 @@ FontLeft => D10
 
 ----------rx-----------    
 
-Throttle  => D2
+Mode  => D2
 
 Aileron   => D4
 
