@@ -1,6 +1,6 @@
 # Flying_WingF328P_V1
 /*
-project_Flying_WingF3_V1  
+project_Flying_WingF3_V1  , Arduino ATmega328p
 
 ![](https://cloud.githubusercontent.com/assets/9403558/13171369/09a21c72-d725-11e5-8322-a99843717f45.jpg)
 
@@ -22,9 +22,11 @@ date: 18-02-2559(2016)  Flying_WingF328P_V1 ,,Mode Manual and Gyro stabilizer
 
 support:  Board MWC-S V1.5
 
+• Arduino ATmega328p
+
 • Atmega328p
 
-• MPU6050C Gyro Accelerometer //400kHz nois gyro +-0.05 deg/s , acc +-0.04 m/s^2
+• MPU6050 Gyro Accelerometer //400kHz nois gyro +-0.05 deg/s , acc +-0.04 m/s^2
 
 Flying_Wing
                   T
