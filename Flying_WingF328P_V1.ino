@@ -18,7 +18,7 @@ Flying_Wing
          D10----  I  ---- D9
               \   I   / 
 
----------motor---------
+---------Servo---------
 FontRight => D9
 FontLeft => D10          
 ----------rx-----------           
